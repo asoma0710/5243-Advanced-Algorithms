@@ -1,4 +1,4 @@
-# 04-P01: Advanced Algorithms
+# 04-A04: Advanced Algorithms
 
 ## COS – Celebration of Scholarship
 
